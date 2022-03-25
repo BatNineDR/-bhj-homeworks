@@ -85,5 +85,3 @@ class Autocomplete {
 }
 
 new Autocomplete(document.querySelector('.autocomplete'));
-
-new Autocomplete( document.querySelector( '.autocomplete' ));
